@@ -1,22 +1,18 @@
-# [Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation](https://aclanthology.org/2021.emnlp-main.696/)
+# Dataset for Internal Portofolio of Company
 
-This repository contains resources derived from "Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation" ([https://aclanthology.org/2021.emnlp-main.696/](https://aclanthology.org/2021.emnlp-main.696/))
 
 ## Datasets
-- SynQA: https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/data/synQA.zip
-- Answer Candidates: https://github.com/maxbartolo/improving-qa-model-robustness/raw/main/data/answer_candidates.zip
+- internal-datasets: https://github.com/Marbyun/datasets-huggingface/raw/master/internal-data/internal-datasets.zip
 
-You can also load the synQA dataset directly in 🤗 HuggingFace transformers using:
+You can also load this dataset directly in 🤗 HuggingFace transformers using:
 
 ```
 from datasets import load_dataset
-dataset = load_dataset("mbartolo/synQA")
+dataset = load_dataset("Marbyun/internal-datasets")
 ```
 
 For further details, refer to the `README.md` files associated with each dataset. For any further technical details, kindly refer to the paper.
 
-## Generative Models
-If you would like to use the models that were used to generate these synthetic adversarial questions, see https://github.com/maxbartolo/synQA-question-generators.
 
 ## Citation
 If you use this work, please consider citing:
