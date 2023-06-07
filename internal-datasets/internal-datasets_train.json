@@ -10,8 +10,12 @@
                     "qas":
                     [
                         {"id":"689f275aacba6c43ff112b2c7cAd3216129bfAD4Da",
-                            "question":["Hello","Hi","Halo","Hai"],
-                            "answers":[{"text":["Hai","Hallo","Selamat Datang"],"answer_start": 0}]
+                            "question":"Hi",
+                            "answers":[{"text":"Hai","answer_start": 0}]
+                        },
+                        {"id":"000f275aacba6c43ff112b2c7cAd3216129bfAD4Da",
+                            "question":"Halo",
+                            "answers":[{"text":"Hallo","answer_start": 0}]
                         }
                     ]
                 }
