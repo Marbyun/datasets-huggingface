@@ -5,79 +5,43 @@ Moonlay success stories of our 115+ building projects
 In our portfolios you can learn more about our clients, the types of projects we work with, our process of development, and technologies we use to develop software.
 Our successful stories
 A projects showcase of apps and websites designed & developed by Moonlay Technologies.
-x
-Centralized Trading Platform
-Aplikasi Master Data Management (MDM)
-Aplikasi Master Data Management (MDM) digunakan sebagai single truth data source yang digunakan pada kegiatan PLTE dan MOFIDS.
-Adapun fitur-fitur pada MDM seperti:
-1. Pengelolaan data advance
-2. Upload Data, semua data yang dikelola oleh MDM, dapat dilakukan entry dengan menggunakan mekanisme upload file (csv, txt, xls).
-3. View Data, MDM dapat menampilkan data yang dikelola melalui page/view GUI.
-4. Filter on View, page/view pada GUI MDM dapat dilakukan filter berdasarkan value pada data.
-5. Download Data
-6. API/Messaging, memiliki API yang dapat dipanggil oleh aplikasi lain.
-7. Sent File
-8. User Management
-9. Audit Trail
+Travorama
+Travorama is an Online Travel System. Moonlay is responsible to create their mobile application in android and iOS. The mobile application can be used to do flight booking and hotel reservation.
+×
+SAMPOERNA - Cycle Planning Application (CPP)
+CPP is a web based application to align strategic with required resources with Cycle periodical for Marketing and Commercial/Sales Activities. This application will record all cycle process document/activities and reduce administration process for all stake holder and field commercial and also increase efficiency at marketing activities.
+×
+Logistic Information System
+JET Express is a logistic service based in Tangerang. Moonlay is responsible to develop their operational and back-end software. This application is able to record daily sales, track customer package status and also generate certain report. Moonlay also develop integrated API to iOS for JET mobile application. JET Express operational application was build under .NET Framework MVC 5 and Microsoft SQL Server 2012 database.
+×
+Jakarta Event Week (JFW) - Event Management System
+This project purpose create a user friendly and easy to use mobile application. Event Management System, which could help user to Access the event news, schedule, latest info, buy and claim the ticket. JFW was built with Serverless Architecture, backend infrastructure AWS Lambda, and frontend with React Native
+×
+Fashion Retail E-Commerce
+Bateeq mobile application is available both for iOS and Android, for iOS platform we used Swift Code for programming language, while for the Android platform we used Java programming language and for both database was built with SQLite and we uploaded the database in SQL Azure.
+×
+Astra International - Astra Field Support
+Astra FS stands for Astra Field Support, FS has mobile and web (CMS) application to facilitate user of Astra International or non-Astra International to submit their IT problem. Moonlay is responsible to develop their CMS back-end application. This application is able to track FS Location, generate report to excel format, maintain user management, master data such as alert, group, feedback.
+×
+Astra Motor - Bonus Dealer System
+MISSION is a mobile and web (CMS) based application for Dealer Evaluation of Astra. Moonlay is responsible to develop their CMS back end application.
+This application is able to Generate Report to Excel and PDF Format, Manage Assessment (Evaluation criteria and Assessment), Manage Special Assignment, and Maintain User Management.
+MISSION will be used by Head Office and Dealers. The purpose of MISSION application is to provide convenience for SPV HO in completing Dealer Operation Standard (DOS) or Dealer Review, furthermore, it also decrease Fraud and Human Error.
+×
+Astra Motor - Bonus Dealer System
+BODES stands for Bonus Dealer System. BODES is a web based application to record, verify, and publish information about Dealer’s bonus calculation.
+Bonus Calculation will go through approval process, before approved and released to each Dealer. BODES will be used by Head Office, Main Dealer and Dealers. Purpose of BODES application is to give transparency of calculation bonus process and to avoid human error from manual calculation and fraud.
 ×
 Centralized Trading Platform
-Ministry of Finance Dealing System (MOFIDS)
-MOFIDS
-merupakan platform yang digunakan oleh
-DJPPR (Ditjen Pengelolaan Pembiayaan dan Resiko)
-dalam kegiatan
-Lelang Pembelian Kembali SUN/SBN.
-Jenis layanan lelang yang diselenggarakan pada sistem MOFIDS meliputi:
-1. Buyback Debt Switch
-2. Simple Auction
-3. Buyback Cash
-4. Buyback Debt Switch dengan mekanisme Staple Bonds
-Adapun fitur pendukung lainnya untuk menunjang kegiatan operasional di antaranya:
-1. Master Data Management
-2. Mofids Chat
-3. Mofids Help Desk
-4. Mofids Monitoring & Analytics
-5. Host to Host Reporting to PLTE
-6. Bond Calculator
-×
-Centralized Trading Platform
-Aplikasi Penerima Laporan Transaksi Efek (PLTE)
-Fungsi Bisnis Pelaporan Transaksi Efek:
-Fungsi Bisnis Pihak-Pihak Yang Terlibat dan yang menggunakan sistem PLTE secara garis besar terdiri dari:
-1. Fungsi bisnis penyelenggara PLTE yang dimiliki oleh BEI selaku penyedia Sistem PLTE.
-2. Fungsi bisnis penerbitan Efek Berbasis Utang dan Sukuk (EBUS) yang dimiliki oleh Pemerintah yang diwakili DJPPR Kemenkeu dan korporasi.
-3. Fungsi bisnis pihak-pihak yang melakukan pelaporan yaitu Perusahaan Efek, Bank, dan Bank Kustodian atau pihak yang disetujui oleh OJK.
-Mekanisme Umum Pelaporan Transaksi Efek
-Secara umum, mekanisme pelaporan oleh Partisipan
-adalah sebagai berikut:
-1. Partisipan atau pihak selain Partisipan melakukan transaksi EBUS di luar bursa/Over The Counter (OTC).
-2. Partisipan melaporkan transaksinya sendiri atau transaksi kliennya ke Sistem PLTE paling lambat 30 menit semenjak terjadinya transaksi, melalui front end sistem PLTE dan dengan integrasi sistem partisipan ke sistem PLTE.
-3. BEI selaku Penyelenggara PLTE memberikan Bukti Pelaporan.
-4. Terdapat mekanisme pengenaan denda untuk Pelaporan yang dikategorikan terlambat.
-5. Terdapat mekanisme konsolidasi untuk mengecek data pelaporan dan data penyelesaiannya.
-6. Terdapat mekanisme koreksi dan pembatalan pelaporan jika terdapat perbedaan data pelaporan dengan penyelesaian.
-×
-Centralized Trading Platform
-Aplikasi Daily Watching
-Sistem Daily Watching
-akan membantu
-OJK
-dalam melakukan pengawasan kegiatan pelaporan transaksi EBUS yang terjadi setiap harinya di Sistem PLTE.
-Adapun fitur-fitur pada Daily Watching:
-1. Alert: yang digunakan untuk memantau jalannya transaksi EBUS yang dilaporkan ke system PLTE.
-2. Pengawasan Umum Pelaporan: OJK juga dapat melihat data pelaporan secara umum.
-3. Status Keterlambatan Pelaporan pada Partisipan
-4. Pengawasan Detail Pelaporan: OJK dapat menyimpan dan mengunduh data historis.
-5. Proses Konsolidasi: secara otomatis begitu data penyelesaian transaksi dari BI dan KSEI dimasukkan.
-6. Denda Pelaporan: OJK dapat mengunduh data rekapitulasi denda yang dibuat oleh penyedia PLTE.
-7. Grafik Pengawasan: system Daily Watching dapat menampilkan data pelaporan Transaksi Efek.
+We provide 4 Apps And System like:
+ - Master Data Management (MDM) is used as a single truth data source in PLTE and MOFIDS activities.
+ - Ministry of Finance Dealing System (MOFIDS) is a platform used by DJPPR (Directorate General of Financing and Risk Management) for the auction of Treasury Bills/Notes Buybacks.
+ - Apps Penerima Laporan Transaksi Efek (PLTE)
+ - Apps Daily Watching is used to assist OJK (Financial Services Authority) in monitoring the reporting of EBUS transactions that occur daily in the PLTE System.
 ×
 LoyaltiExpress
 LoyaltiExpress adalah sebuah aplikasi loyalty wallet. LoyaltiExpress memiliki aplikasi mobile dan web yang diperuntukkan untuk pihak customer dan juga merchant secara berurutan. Dimana pada apikasi ini terdapat beberapa module (mobile) bagi customer seperti account, home, wallet, notification, profile, dan drawer. Sedangkan untuk versi website lebih detail dengan tambahan module seperti message, program, voucher, transaction,
 customer, report, employee, dan outlet.
-×
-SAMPOERNA - Cycle Planning Application (CPP)
-CPP is a web based application to align strategic with required resources with Cycle periodical for Marketing and Commercial/Sales Activities. This application will record all cycle process document/activities and reduce administration process for all stake holder and field commercial and also increase efficiency at marketing activities.
 ×
 CIPTADANA
 This website is intended to accommodate data consolidation. The website was built under .NET Framework 2.0 with programming language ASP .NET 2.0 and VB .NET. For the database programming, it uses SQL Server 2005. To increase response time and reduce server postback time, it employs the advantage of AJAX.
@@ -115,35 +79,11 @@ Iform (Integrated Form) is a web-based application used by user as form automate
 LBU – Banking & Finance
 LBU is a desktop application used by Finance team to generate Laporan Bank Umum (LBU) reports which will be sent to Central Bank on monthly basis. This application was built using VB .NET as programming language and SQL Server 2008 as database.
 ×
-Astra International - Astra Field Support
-Astra FS stands for Astra Field Support, FS has mobile and web (CMS) application to facilitate user of Astra International or non-Astra International to submit their IT problem. Moonlay is responsible to develop their CMS back-end application. This application is able to track FS Location, generate report to excel format, maintain user management, master data such as alert, group, feedback.
-×
-Astra Motor - Bonus Dealer System
-MISSION is a mobile and web (CMS) based application for Dealer Evaluation of Astra. Moonlay is responsible to develop their CMS back end application.
-This application is able to Generate Report to Excel and PDF Format, Manage Assessment (Evaluation criteria and Assessment), Manage Special Assignment, and Maintain User Management.
-MISSION will be used by Head Office and Dealers. The purpose of MISSION application is to provide convenience for SPV HO in completing Dealer Operation Standard (DOS) or Dealer Review, furthermore, it also decrease Fraud and Human Error.
-×
-Astra Motor - Bonus Dealer System
-BODES stands for Bonus Dealer System. BODES is a web based application to record, verify, and publish information about Dealer’s bonus calculation.
-Bonus Calculation will go through approval process, before approved and released to each Dealer. BODES will be used by Head Office, Main Dealer and Dealers. Purpose of BODES application is to give transparency of calculation bonus process and to avoid human error from manual calculation and fraud.
-×
-Travorama
-Travorama is an Online Travel System. Moonlay is responsible to create their mobile application in android and iOS. The mobile application can be used to do flight booking and hotel reservation.
-×
 Fashion Mobile POS
 A web-project built for a radio station, listener response is built under .NET Framework 3.5 with the implementation of AJAX, it reduces the post back time to the server and thus reducing the slack time of communication between Client and Server. As for the User Interface, it is using a third-party, DevExpress 9.1.4 Data Grid and Report. Listener Response is making use of LinQ to interact with SQL Server 2005 database. Listener Response is developed using VB .NET as its programming language.
 ×
 E-Will (Mobile)
 This project aims to develop a user-friendly and easy-to-use mobile application which could help user to create Will easily on their smartphone and save the detail of their will, share it to their relatives/friends and have a safe payment gateway. E-Will will support OCR for passport and ID Card for registration to make people easier to register.
-×
-Fashion Retail E-Commerce
-Bateeq mobile application is available both for iOS and Android, for iOS platform we used Swift Code for programming language, while for the Android platform we used Java programming language and for both database was built with SQLite and we uploaded the database in SQL Azure.
-×
-Jakarta Event Week (JFW) - Event Management System
-This project purpose create a user friendly and easy to use mobile application. Event Management System, which could help user to Access the event news, schedule, latest info, buy and claim the ticket. JFW was built with Serverless Architecture, backend infrastructure AWS Lambda, and frontend with React Native
-×
-Logistic Information System
-JET Express is a logistic service based in Tangerang. Moonlay is responsible to develop their operational and back-end software. This application is able to record daily sales, track customer package status and also generate certain report. Moonlay also develop integrated API to iOS for JET mobile application. JET Express operational application was build under .NET Framework MVC 5 and Microsoft SQL Server 2012 database.
 ×
 Major Minor
 Borne out of the capital city of Jakarta, MAJOR MINOR prioritises comfort, function, and versatility for today’s urban woman. In 2016, MAJOR MINOR was selected as an Asia Regional Nominee for Womenswear in the International Woolmark Prize. In this project Moonlay responsible for designing the user interface / user experience and building the MM website that able to see catalog, add to cart, payment, and many more.
@@ -169,58 +109,18 @@ Good Communication
 Search for Opportunities
 Reward for Achievement
 Join Moonlay Technologies Talent Network Now!
-Moonlay Talent Network is a place for IT enthusiasts who interested to become a part of Society 5.0 in Indonesia by registering yourself as talent ready at 
-----------------------------------------
-URL: https://moonlay.com/insights/
-Content:
-Insights - Moonlay Technologies
-Explore Our Featured Insights
-Just relax and read our featured analyst articles about Information Technology and Software Development use cases.
-Our Recent Articles
-x
-Automation Testing VS Manual Testing?
-x
-Bagaimana Jika Mixue Punya Aplikasi?
-x
-Apa itu Patch Management? Pentingnya dan Lifecycle
-x
-3 Mitos Tentang Passion
-x
-Tingkatkan Kepercayaan Pelanggan Kamu dengan Toko Online!
-x
-Tingkatkan Ekonomi Digital Indonesia Bersama Moonlay!
-x
-Bikin Aplikasi Mobile Untuk Dealer Mobil?
-x
-5 Lessons About Finding The Work You Were Meant To Do
-x
-Apa Itu Web 3.0 dan Mengapa Penting?
-x
-5 Tips to Becoming a DevOps Engineer
-x
-3 Soft Skills That Can Help You Adapt to New Roles
-x
-3 Software Development Tools for a Better Productivity
-x
-How to be a Good Software Engineer?
+Moonlay Talent Network is a place for IT enthusiasts who interested to become a part of Society 5.0 in Indonesia by registering yourself as talent ready at Moonlay.
+Register Now
 ----------------------------------------
 URL: https://moonlay.com/apps-and-cloud/
 Content:
 Apps and Cloud - Moonlay Technologies
-Software Development
 For Your Digital Success
 Our unique blend of creativity, technical expertise and experience will transform your businesses into impactful and adaptable digital solutions
 Contact Us Now
 Our Expert System for Software Development
 We believe every business is unique, and our personalized approach will enable your business to realize its maximum potential. From planning, designing, development and operations, until deployment we'll support you every step of the way.
 Every Part of Your IT Ecosystem. Taken Care Of.
-Brain Resources
-IT Consulting
-Implementation
-Migration
-Corrective Maintenance
-Preventive Maintenance
-Industries Expertise
 We’ve excelled our experience in a wide range of industries to bring valuable insights
 and provide our customers with the truly beneficial solutions.
 Technologies and Platforms For Your Software Development
@@ -274,6 +174,13 @@ Data Analytics
 Data Engineering
 Data Science
 Vulnerability Assessment & Penetration Testing
+Brain Resources
+IT Consulting
+Implementation
+Migration
+Corrective Maintenance
+Preventive Maintenance
+Industries Expertise
 Patch Management
 Moonlay ready to serve your business' need
 Let’s improve our business performance and win customers fast
@@ -342,6 +249,8 @@ Content:
 Contact Us - Moonlay Technologies
 Let’s Advance Our Business Together!
 Our teams always ready to answer your questions and needs. So, please don’t hesitate to get in touch with us!
+Contact Us
+Recruit Our Talent
 PT. Moonlay Technologies
 Equity Tower, 25th floor, Suite H. SCBD Lot 9.
 Jl. Jend. Sudirman kav 52-53, RT.5/RW.3, Senayan, Kebayoran Baru, South Jakarta City, Jakarta 12190
